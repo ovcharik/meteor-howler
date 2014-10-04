@@ -1,4 +1,4 @@
-meteor-howler
+meteor-howler [![Build Status](https://travis-ci.org/ovcharik/meteor-howler.svg)](https://travis-ci.org/ovcharik/meteor-howler)
 =============
 
 Howler for Meteor.

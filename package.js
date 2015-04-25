@@ -1,7 +1,7 @@
 Package.describe({
   name:    "ovcharik:howler",
   summary: "Javascript audio library for the modern web.",
-  version: "1.1.26",
+  version: "1.1.26-1",
   git:     "https://github.com/ovcharik/meteor-howler"
 });
 
